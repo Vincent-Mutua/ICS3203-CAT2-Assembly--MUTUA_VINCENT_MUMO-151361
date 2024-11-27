@@ -1,4 +1,4 @@
-# ICS3203-CAT2-Assembly-<MUTUA-VINCENT-MUMO>-<151361>
+# ICS3203-CAT2-Assembly-Mutua-Vincent-Mumo-151361
 
 This repository contains the solutions for the CAT 2 practical tasks for ICS3203, focusing on Assembly programming. Each task demonstrates a different aspect of programming, including control flow, array manipulation, modular programming, and data monitoring with simulation. Below are the detailed explanations and instructions for each task.
 
