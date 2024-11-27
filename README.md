@@ -29,7 +29,7 @@ This program takes a user input number and classifies it as **POSITIVE**, **NEGA
  - The sign of the number (negative) is not correctly handled in the atoi subroutine.
  - Fix this by adding logic to detect and handle a negative sign (-) in the input string.
 
-- **
+
 
 ---
 
