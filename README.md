@@ -71,6 +71,22 @@ This program computes the factorial of a number using a modular subroutine, demo
 - **Stack Management**: The stack is used to preserve registers (`push` and `pop`) to ensure that values are not lost during subroutine calls.
 - **Modular Code**: The factorial calculation is separated into its own subroutine to demonstrate modular programming.
 
+### Insights:
+**Register Management**:
+
+General-purpose registers: The program primarily uses registers such as RAX, RBX, RDI, and RSI to store intermediate values and results.
+
+Base pointer (RBP): Used to manage the stack frame within the subroutine, making it easier to reference parameters and local variables.
+
+
+**Subroutine for Factorial Calculation**:
+
+The factorial calculation is encapsulated in a separate subroutine, improving code modularity and reusability.
+
+The subroutine is called from the main program, passing the input number via the stack.
+
+Within the subroutine, recursive calls are made to compute the factorial, demonstrating an understanding of function-like code blocks in assembly.
+
 ---
 
 ### Task 4: Data Monitoring and Control Using Port-Based Simulation
